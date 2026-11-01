@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">I'm Amin, a Junior Software Engineer passionate about turning ideas into code. 🚀</p>
+<p align="left">I'm Amin, a Junior applied computer science passionate about turning ideas into code. 🚀</p>
 
 ### 
 
